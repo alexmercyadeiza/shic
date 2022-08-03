@@ -4,10 +4,10 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Safe Haven in Christ</title>
+        <title>Safe Haven In Christ</title>
         <meta
           name="description"
-          content="A space for conversations about controversial topics."
+          content="A safe space for uncomfortable conversations."
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
